@@ -13,4 +13,4 @@
   
   cd polygon-turn-test
   
-  python main.py
+  python3 main.py
